@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **trieusoncv@gmail.com**
 
-- ⚡ Fun fact: **If I could have any superpower, it would be to speak any language so I could connect with anyone in the world.**
+- ⚡ Quote: **You may delay, but time will not.**
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sontaptrung&label=Profile%20views&color=0e75b6&style=flat" alt="sontaptrung" /> </p>
