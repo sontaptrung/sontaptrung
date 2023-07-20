@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **trieusoncv@gmail.com**
 
-- ⚡ Quote: **You may delay, but time will not.**
+- ⚡ Quote: **"You may delay, but time will not."**
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sontaptrung&label=Profile%20views&color=0e75b6&style=flat" alt="sontaptrung" /> </p>
