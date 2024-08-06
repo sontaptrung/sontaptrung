@@ -1,6 +1,6 @@
 [![MasterHead](https://media.wired.com/photos/5941ebf7e9030c15ddbcd8c2/master/w_2560%2Cc_limit/1CFAeP1I6qiU-ZMb-O4xyOA.gif)](https://github.com/sontaptrung)
 <h1 align="center">Hi 👋, I'm Triệu Thiên Sơn</h1>
-<h3 align="center">I am a junior at FPT University, majoring in Artificial Intelligence.</h3>
+<h3 align="center">I am a senior at FPT University, majoring in Artificial Intelligence.</h3>
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGViZjBhYWQ4MjhlOWVlMDAyMDQ4MmNhNzU1OTNmMDVmNjBkZmVkNiZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif">
 
 - 🔭 I’m currently studing at  **FPT University**
